@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-D-Elliott
 - 👀 I’m interested in all programming languages, frameworks, and code structure.
-- 🌱 I’m currently learning JavaFX, React, REST, TypeScript.
+- 🌱 I’m currently learning MERN Stack, C++, Tree-based algorithms
 - 💞️ I’m collaborating on a professional project, but cannot reveal details.
 - My greatest skill is in application development and user-interface such as buttons, forms, controls, selectors, state machines.
 - I have built and maintained numerous applications from a full-stack scope and I am very efficient in this scope,
